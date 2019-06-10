@@ -1,0 +1,5 @@
+[submodule "godot-cpp"]
+	path = godot-cpp
+	url = git@github.com:jknightdoeswork/godot-cpp.git
+	branch = jknight
+
